@@ -1,0 +1,7 @@
+1.Descripción
+2.Diagrama eléctrico (Incompleto, hay 2 bocinas en el diseño y es otro micro) -10
+3.Código fuente
+4.Fotos del circuito
+5.Conclusiones individuales
+
+Calificación reporte 90
